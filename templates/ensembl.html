@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Nucleotide sequence to Protein Sequence</title>
+    <link rel="stylesheet" type="text/css" href="/static/style.css">
+</head>
+<body>
+    <form method="post">
+        Description search query:
+        <input type="text" name="search">
+        <input type="submit" value="Search">
+    </form>
+    <hr>
+    Query results: (limited to 100 hits)<br>
+    <ul>
+    {% for row in rows %}
+        <li>{{ row | safe }}</li>
+    {% endfor %}
+    </ul>
+    <br><br><br>
+    <div class="footer">
+        <p>&copy;KevinVG207 2021</p>
+    </div>
+</body>
+</html>
