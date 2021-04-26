@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Pubmed 1</title>
+    <link rel="stylesheet" type="text/css" href="/static/style.css">
+</head>
+<body>
+<form method="post">
+        Enter entrez terms (separated by comma):
+        <input type="text" name="search">
+        <input type="submit" value="Search">
+</form>
+{%  if plot  %}
+<img src="{{  plot_url  }}" alt="Chart">
+{% endif %}
+</body>
+</html>
