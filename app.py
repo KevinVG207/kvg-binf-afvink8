@@ -157,6 +157,118 @@ def pubmed1():
     else:
         return render_template("pubmed1.html", plot=False)
 
+def load_file(filename):
+    lines = []
+    try:
+        with open(filename, "r") as f:
+            for line in f:
+                lines.append(line.rstrip())
+    except IOError:
+        print("Error loading file", filename)
+    return lines
+
+
+@app.route('/pubmed2', methods=["POST", "GET"])
+def pubmed2():
+    long = request.args.get('long')
+    print(long)
+    genes = load_file("genes.txt")
+    genes_full = load_file("genes_full.txt")
+    effects = load_file("molecular_effects.txt")
+    effects_full = load_file("molecular_effects_full.txt")
+    compounds = load_file("compounds.txt")
+
+    Entrez.email = "kevinvg207@gmail.com"
+
+    combos = {}
+
+    if long == "TRUE":
+        for gene in genes_full:
+            for effect in effects_full:
+                for compound in compounds:
+                    query = f"\"{gene}\" AND \"{effect}\" AND \"{compound}\""
+                    print(query)
+
+                    count = 0
+                    handle = Entrez.egquery(term=query)
+                    record = Entrez.read(handle)
+                    for row in record["eGQueryResult"]:
+                        if row["DbName"] == "pubmed":
+                            count = row["Count"]
+                    handle.close()
+                    print(count)
+                    if count in combos:
+                        combos[count].append([gene, effect, compound])
+                    else:
+                        combos[count] = [[gene, effect, compound]]
+    else:
+        for gene in genes:
+            for effect in effects:
+                query = f"\"{gene}\" AND \"{effect}\""
+                print(query)
+
+                count = 0
+                handle = Entrez.egquery(term=query)
+                record = Entrez.read(handle)
+                for row in record["eGQueryResult"]:
+                    if row["DbName"] == "pubmed":
+                        count = row["Count"]
+                handle.close()
+                print(count)
+                if count in combos:
+                    combos[count].append([gene, effect])
+                else:
+                    combos[count] = [[gene, effect]]
+
+    count_list = combos.keys()
+    int_list = sorted(list(map(int, count_list)))
+    print(int_list)
+    highest = str(int_list[-1])
+    highest_combo = combos[highest][0]
+
+    count = 0
+    term = f"\"{highest_combo[0]}\" AND \"{highest_combo[1]}\""
+    handle = Entrez.egquery(term=term)
+    record = Entrez.read(handle)
+    for row in record["eGQueryResult"]:
+        if row["DbName"] == "pubmed":
+            count = row["Count"]
+    handle.close()
+
+    print(term, count)
+
+    search_handle = Entrez.esearch(
+        usehistory="y",
+        db="pubmed",
+        term=term,
+        retmax=count
+    )
+    search_results = Entrez.read(search_handle)
+    search_handle.close()
+    id_list = search_results["IdList"]
+    webenv = search_results["WebEnv"]
+    query_key = search_results["QueryKey"]
+
+    batch_size = 500
+    count = len(id_list)
+    records = []
+    for start in range(0, count, batch_size):
+        end = min(count, start + batch_size)
+        print("Going to download record %i to %i" % (start + 1, end))
+        medline_handle = Entrez.efetch(
+            db="pubmed",
+            rettype="medline",
+            retmode="text",
+            retstart=start,
+            retmax=batch_size,
+            webenv=webenv,
+            query_key=query_key
+        )
+        medline_records = Medline.parse(medline_handle)
+        records = records + list(medline_records)
+        medline_handle.close()
+    return render_template("pubmed2.html", data=records, term=term)
+
 
 if __name__ == '__main__':
     app.run()

@@ -1,0 +1,8 @@
+ace
+atn
+caf
+mev
+mig
+mut
+pat
+ric

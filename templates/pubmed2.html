@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Pubmed 1</title>
+    <link rel="stylesheet" type="text/css" href="/static/style.css">
+</head>
+<body>
+<h1>Term: {{ term }}</h1>
+<h1>Amount: {{ data|length }}</h1>
+{% for record in data %}
+    <h2>{{ record.get("TI", "?") }}</h2>
+    <h3>{{ record.get("AU", "?") }}</h3>
+    <p>{{ record.get("AB", "?") }}</p>
+{% endfor %}
+</body>
+</html>

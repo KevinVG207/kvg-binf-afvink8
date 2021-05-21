@@ -1,0 +1,3015 @@
+abl
+abl-1 X 2.06
+ace
+ace-1 X 24.11 p1000
+ace-2 I
+ace-3 II 22.65 dc2
+ach
+ach-1 ?
+acr
+acr-1
+acr-2 X ?2.73
+act
+act-1
+act-2
+act-3
+act-4 X ?6.27
+act-5 III 20.3
+act-123 V 2.92 st15
+adm
+adm-1 III R
+adn
+adn-1 I 3.62 rh110
+adn-2 V 0.46 rh162
+adp
+adp-1 II 2.5 ky20
+aex
+aex-1 I 2.24 sa9
+aex-2 X 1.1 sa3
+aex-3 X
+19.00 ad418
+aex-4 X
+10.11 sa22
+aex-5 I 27.19 sa23
+aex-6 I 21.82 sa24
+age
+age-1 II RC hx546
+ali
+ali-1 V 3.31 e1934
+ama
+ama-1 IV 0.05 m118
+ama-2 V 4.84 m323
+anc
+anc-1 I
+1.43 e1753
+aph
+aph-1 I 3.63 zu123
+aph-2 I 5.06
+apl
+apl-1 X
+5.91 pk53
+apx
+apx-1 V
+10.21 or3
+arf
+arf-1 III
+1.36
+arf-2
+arf-3 IV 3.53
+arg
+arg-1 X
+15.47
+arl
+arl-1 III
+arl-2 III 0.70
+arl-3 II 0.80
+arl-4 II 1.60
+arl-5 II 0.79
+arp
+arp-1 II 23.5
+art
+art-1 II
+0.19
+atn
+atn-1 V 4.22
+avr
+avr-1
+avr-5
+avr-15 ? ad1051
+bas
+bas-1 III
+0.81 ad446
+bas-2 II 0.83
+ben
+ben-1 III
+6.43 e1880
+bli
+bli-1 II 3.03 e769
+bli-2 II
+1.26 e768
+bli-3 I
+18.72 e767
+bli-4 I 0.90 e937
+bli-5 III
+18.72 e518
+bli-6 IV 3.15 sc16
+bop
+bop-1
+bor
+bor-1 X 17.37 g320
+cad
+cad-1 II 23.05 j1
+caf
+caf-1
+caf-2
+cah
+cah-1 X 24.08 pk56
+cal
+cal-1 V 4.31
+can
+can-1 III 6.85 rh67
+cap
+cap-1 IV 3.33
+cap-2 II 3.05
+cat
+cat-1 X
+4.18 e1111
+cat-2 II
+18.15 e1112
+cat-3 III N e1333
+cat-4 V 2.76 e1141
+cat-5 V N e1334
+cat-6 V 4.96 e1861
+cct
+cct-1 II 0.78 pk58
+cct-2 II 0.9
+cct-4 II 0.78
+cct-5 III
+3.70
+cct-6 III
+1.2
+cdc
+cdc-42 II
+0.5 pk57
+cdh
+cdh-1 III
+11.31
+cdh-2 V 18.09
+cdh-3 III
+0.58 pk87
+ced
+ced-1 I 10.77 e1735
+ced-2 IV
+17.79 e1752
+ced-3 IV 8.17 n717
+ced-4 III
+2.44 n1162
+ced-5 IV 4.65 n1812
+ced-6 III
+1.52 n2095
+ced-7 III 0.49 n1892
+ced-8 X
+0.03 n1891
+ced-9 III 2.40 n1950
+ced-10 IV
+1.80 n1993
+ced-11 III 0.15 n2744
+ceh
+ceh-1 X
+7.00
+ceh-2 I 0.70
+ceh-3
+ceh-4
+ceh-5 IV 4.65
+ceh-6 I 2.85 mg60
+ceh-7 II 0.81
+ceh-8 I 2.48
+ceh-9 I
+19.89
+ceh-10 III
+1.25
+ceh-11
+ceh-12 I 0.34
+ceh-13 III
+0.67 pk20, pk36
+ceh-14 X
+1.83
+ceh-15
+ceh-16 III
+0.17
+ceh-18 X
+9.46 mg57
+ceh-19 IV 3.53
+ceh-20 III
+0.81 ay9
+ceh-21 X
+15.42
+ceh-22 V 2.80 cc8266
+ceh-23 III
+0.54
+ceh-24 V 5.57 pk92
+ceh-25 ?
+ceh-26 III
+0.40
+ces
+ces-1 I 2.91 n703
+ces-2 I 29.06 n732
+cey
+cey-1 II 3.07 pk81
+cey-2 I 0.03
+cey-3 I 0.00
+cha
+cha-1 IV
+3.31 p1152
+che
+che-1 I 1.45 e1034
+che-2 X
+19.54 e1033
+che-3 I 2.28 e1124
+che-4
+che-5 IV N e1073
+che-6 IV N e1126
+che-7 V N e1128
+che-8
+che-9
+che-10 II
+2.79 e1809
+che-11 V 3.87 e1810
+che-12 V 2.21 e1812
+che-13 I 5.27 e1805
+che-14 I N e1960
+che-15 II N n1931
+che-16 I 2.1 n1929
+cib
+cib-1 I
+0.24 e2300
+cib-3 I
+7.49 t1008
+clb
+clb-1
+clb-2
+clk
+clk-1 III
+1.99 e2519
+clk-2 III
+0.71 qm37
+clk-3 II 21.5 qm38
+clr
+clr-1 II
+1.95 e1745
+cod
+cod-1 V 1.59 sy193
+cod-2 I 10.00 sy43
+cod-3 IV 2.7 sy166
+cod-4 III
+1.99 sy180
+cod-5 II 0.12 sy181
+cod-6 III
+0.93 sy186
+cod-7 I 0.10 sy190
+cod-8 III N sy176
+cod-9 IV N sy226
+cod-10 I 9.04 sy38
+cod-11 I N sy35
+cod-12 II N sy419
+cod-13 III N sy420
+cod-14 IV N sy421
+cod-15 I N sy423
+col
+col-1
+col-2 IV 4.58
+col-3 IV 3.95
+col-4 IV 3.49
+col-5 IV 5.50
+col-6 II 0.44
+col-7 I 2.0
+col-8 III
+0.80
+col-9 X 13.12
+col-10 ?
+col-11 ?
+col-12 V 2.57
+col-13 V 2.57
+col-14 ?
+col-15 ?
+col-16 ?
+col-17 ?
+col-18 ?
+col-19 ?
+col-20 ?
+col-33 IV 0.08
+col-34 IV 0.01
+col-35 ?
+col-36 II 0.3
+col-37 V 3.61
+col-39 II 2.88
+col-40 II
+16.62
+cpr
+cpr-1 V 8.24
+cpr-2 V 3.48
+cpr-3 V 8.3
+cpr-4 V 0.16
+cpr-5 V
+19.9
+cpr-6 X
+2.75 pk91
+crf
+crf-1
+crf-2
+crt
+crt-1 V
+1.13
+cut
+cut-1 II 3.16
+cut-2 V 5.16
+cwn
+cwn-1 II
+18.97 mu109
+cwn-2 IV 4.58
+cya
+cya-1 III 0.13
+cya-2 II
+14.80
+cyb
+cyb-1 IV 4.73
+cyb-2 V 8.50
+cyp
+cyp-1 V 5.84
+cyp-2 III 21.51
+cyp-3 V 7
+cyp-4 II 3.04
+cyp-5 I 29.9
+cyp-6 III
+26.3
+cyp-7 V N
+cyp-8 X 0.65
+cyp-9 III
+5.70
+cyp-10 II 0.15
+cyp-11 II 0.81
+cyt
+cyt-1 III 2.40
+dad
+dad-1 ?
+daf
+daf-1 IV
+28.04 m40
+daf-2 III
+7.98 e1370
+daf-3 X
+19.35 e1376
+daf-4 III
+1.52 m63
+daf-5 II 23.33 e1386
+daf-6 X 19.07 e1377
+daf-7 III
+26.16 e1372
+daf-8 I 2.87 m85
+daf-9 X L e1406
+daf-10 IV 4.13 e1387
+daf-11 V 3.19 m47
+daf-12 X 2.12 m20
+daf-13 X
+6.14 m66
+daf-14 IV 4.52 m77
+daf-15 IV 4.24 m81
+daf-16 I 3.76 m26
+daf-17
+daf-18 IV
+29.15 e1375
+daf-19 II 1.84 m86
+daf-20
+daf-21 V 6.42 p673
+daf-22 II 12.07 m130
+daf-23 II 3.53
+daf-24
+daf-25 I L m362
+daf-26 IV L m442
+daf-27 III N
+daf-28 V 23.76 sa191
+daf-29 II L m683
+daf-30 IV C m654
+daf-31 IV C m655
+daf-32 V N m688
+daf-33 III L m687
+daf-34 III L m651
+daf-35 III R m678
+deb
+deb-1 IV 3.33 st385
+dec
+dec-1 X 17.73 sa48
+dec-2 III 22.42 sa89
+dec-4 IV 3.25 sa73
+dec-7 III 1.04 sa92
+dec-8
+dec-9 IV 4.65 sa293
+dec-10 X 2.15 sa294
+dec-11 IV 15.00 sa292
+dec-12 I
+11.13 sa295
+deg
+deg-1 X
+1.32 u38
+deg-2 X
+0.61
+deg-3 V 3.43 u662
+des
+des-1 X
+15.3 u586
+des-2 II N
+des-3 III N
+des-4 X N u552
+dhc
+dhc-1 I
+1.6
+dif
+dif-1 IV 3.40 e2562
+dif-2 IV 4.85 e2576
+dig
+dig-1 III
+0.94 n1321
+dom
+dom-3 I
+0.38
+dom-6 IV 3.92
+dpy
+dpy-1 III
+19.41 e1
+dpy-2 II
+0.00 e8
+dpy-3 X
+15.78 e27
+dpy-4 IV 12.41 e1166
+dpy-5 I 0.00 e61
+dpy-6 X 0.00 e14
+dpy-7 X
+1.81 e88
+dpy-8 X
+5.80 e130
+dpy-9 IV
+28.03 e12
+dpy-10 II 0.00 e128
+dpy-11 V 0.00 e224
+dpy-12
+dpy-13 IV 0.00 e184
+dpy-14 I 1.40 e188
+dpy-15
+dpy-16
+dpy-17 III
+2.16 e164
+dpy-18 III 8.50 e364
+dpy-19 III
+0.16 e1259
+dpy-20 IV 5.18 e1282
+dpy-21 V 12.97 e428
+dpy-22 X 1.94 e652
+dpy-23 X
+7.34 e840
+dpy-24 I 5.27 s71
+dpy-25 II
+4.49 e817
+dpy-26 IV 5.91 n199
+dpy-27 III
+5.04 rh18
+dpy-28 III 5.15 y1
+dpy-29
+dpy-30 V 3.70 y130
+dyf
+dyf-1 I
+0.45 mn335
+dyf-2 III 21.71 m543
+dyf-3 IV
+5.25 m185
+dyf-4 V 4.23 m158
+dyf-5 I 3.70 mn400
+dyf-6 X 2.46 m175
+dyf-7 X 1.95 m537 :
+dyf-8 X 12.79 m539
+dyf-9 V 23.47 n1513
+dyf-10 I 1.55 e1383
+dyf-11 X
+17.86 mn392
+dyf-12 X 1.93 sa127
+dyf-13 II 0.22 mn396
+dyn
+dyn-1 ? ky51
+eat
+eat-1 IV 4.85 e2343
+eat-2 II 22.46 ad465
+eat-3 II 1.31 ad426
+eat-4 III 0.14 ad572
+eat-5 I 1.87 ad464
+eat-6 V 4.83 ad467
+eat-7 IV
+17.60 ad450
+eat-8 III
+25.63 ad697
+eat-9 I 23.58 e2337
+eat-10 IV
+27.99 ad606
+eat-11 I 2.24 ad541
+eat-12
+eat-13 X 1.16 ad522
+eat-14 X 5.40 ad573
+eat-15 I 1.80 ad602
+eat-16 I 3.88 ad702
+eat-17 X 23.83 ad707
+eat-18 I 23.60 ad820
+eft
+eft-1 III
+1.1
+eft-2 I 3.62
+eft-3 III
+0.82
+eft-4 X
+1.09
+egl
+egl-1 V 6.18 n487
+egl-2 V
+20.40 n693
+egl-3 V 2.33 n150
+egl-4 IV
+15.30 n478
+egl-5 III
+0.54 n486
+egl-6 X
+12.73 n592
+egl-7 III
+3.18 n575
+egl-8 V
+20.25 n488
+egl-9 V 2.64 n586
+egl-10 V 4.18 n692
+egl-11 V 3.19 n587
+egl-12 V 16.12 n602
+egl-13 X
+3.84 n483
+egl-14 X
+3.66 n549
+egl-15 X 2.49 n484
+egl-16
+egl-17 X
+egl-18 IV
+15.67 n162
+egl-19 IV 3.38 n582
+egl-20 IV 4.43 n585
+egl-21 IV 4.63 n611
+egl-22
+egl-23 IV 10.68 n601
+egl-24 III
+1.06 n572
+egl-25 III
+1.51 n573
+egl-26 II
+18.21 n481
+egl-27 II 0.12 n170
+egl-28 II 1.58 n570
+egl-29 II 5.32 n482
+egl-30 I
+13.53 n686
+egl-31 I 3.07 n472
+egl-32 I 3.96 n155
+egl-33 I 3.96 n151
+egl-34 I
+2.41 n171
+egl-35 III 17.53 n694
+egl-36 X 1.95 n728
+egl-37 II 1.41 n742
+egl-38 IV 4.46 n578
+egl-39
+egl-40 IV 4.19 n606
+egl-41 V 5.67 n1077
+egl-42 II 0.31 n995
+egl-43 II 1.81 n997
+egl-44 II
+1.69 n998
+egl-45 III
+0.54 n999
+egl-46 V 0.13 n1127
+egl-47 V 2.57 n1081
+egl-48
+egl-49 X N n1107
+egl-50 II 23.50 n1086
+ego
+ego-1 I 2.04 om18
+ego-2 I 6.88 om33
+ego-3 V 6.31 om40
+ego-4 III 0.82 om30
+ego-5 III 0.70 om31
+eha
+eha-1 I 3.72
+eln
+elt
+elt-1 IV 4.45 zu180
+elt-2 X 1.95 pk46
+elt-3 X 15.5
+emb
+emb-1 III
+4.46 hc57
+emb-2 III
+5.09 hc58
+emb-3 IV 3.84 hc59
+emb-4 V 21.06 hc60
+emb-5 III
+3.36 hc61
+emb-6 I
+0.47 hc65
+emb-7 III
+3.12 hc66
+emb-8 III
+4.44 hc69
+emb-9 III 0.47 hc70
+emb-10 I 1.75 hc63
+emb-11 IV 4.73 g4
+emb-12 I 2.06 g5
+emb-13 III
+11.73 g6
+emb-14 I 1.67 g43
+emb-15 X 7.61 g15
+emb-16 III
+0.80 g19
+emb-17 I N g20
+emb-18 V 2.21 g21
+emb-19 I 2.06 g22
+emb-20 I 13.31 g27
+emb-21 II 0.58 g31
+emb-22 V 1.39 g32
+emb-23 II 2.94 g39
+emb-24 III 0.02 g40
+emb-25 III
+0.37 g45
+emb-26 IV 2.45 g47
+emb-27 II 0.78 g48
+emb-28 V 13.87 g49
+emb-29 V
+18.40 g52
+emb-30 III 1.29 g53
+emb-31 IV 2.92 g55
+emb-32 III
+6.65 g58
+emb-33
+emb-34 III 0.26 g62
+emb-35 IV 0.23 g64
+emo
+emo-1 V 2.83 oz1
+emo-2 III
+1 oz136
+emo-3 IV 5.8 oz138
+emo-4 V N oz145
+emo-5 II N oz148
+emo-6 III
+1 oz154
+emo-5 II N oz148
+emo-6 III
+1 oz154
+enu
+enu-1 II N ev419
+epi
+epi-1 IV 4.72 rh165
+evl
+evl-1 V 2.4 ar115
+evl-2 II
+2.4 ar119
+evl-3 II 1.8 ar99
+evl-4 II RC ar101
+evl-5 V
+0.5 ar105
+evl-6 IV 5 ar120
+evl-7 IV 1.8 ar108
+evl-8 III RC ar102
+evl-9 I RC ar121
+evl-10 I 0.5 ar95
+evl-11 V
+1.6 ar114
+evl-12 V 3.2 ar109
+evl-13 IV 3.3 ar107
+evl-14 III
+3.3 ar96
+evl-15 IV L ar126
+evl-16 I RC ar93
+evl-17 I RC ar94
+evl-18 III L ar117
+evl-19 III RC ar98
+evl-20 II 0.9 ar103
+evl-21 III L ar122
+evl-22 II LC ar104
+evl-23 IV 3.4 ar106
+evl-24 IV 4 ar124
+exc
+exc-1 X 21.24 rh26
+exc-2 X
+5.24 rh90
+exc-3 X 1.12 rh186
+exc-4 I 25.31 rh133
+exc-5 IV 4.30 rh232
+exc-6 X 21.00 rh103
+exc-7 II 1.59 rh252
+exc-8 X N rh210
+exp
+exp-1 II
+0.87 sa6
+exp-2 V
+0.32 sa26
+exp-3 V 21.73 n2372
+exp-4 IV
+4.96 n2373
+fab
+fab-1 I N ky2
+fab-2 I N n2460
+fab-3 III N n2462
+fab-4 V R n2466
+fat
+fat-1 IV 8.3
+fem
+fem-1 IV 1.99 e1965
+fem-2 III
+26.79 e2105
+fem-3 IV 4.13 e1996
+fer
+fer-1 I 2.91 hc1
+fer-2 III 7.28 hc2
+fer-3 II N hc3
+fer-4 V 2.75 hc4
+fer-5
+fer-6 I 2.89 hc6
+fer-7 I
+1.92 hc34
+fer-14 I 25.45 hc14
+fer-15 II 0.77 hc15
+fib
+fib-1 ?
+fkh
+fkh-1 V 25 pk48
+flp
+flp-1 IV N pk41
+flr
+flr-1 X 12.39 ut1
+flr-2 V 3.49 ut5
+flr-3 IV
+29.14 ut9
+flr-4 X 19.96 ut3
+flr-5 V 1.89 ut73
+flu
+flu-1 V N e1002
+flu-2 X
+3.61 e1003
+flu-3 II N e1001
+flu-4 X N e1004
+fog
+fog-1 I
+4.45 e1959
+fog-2 V 24.94 q71
+fog-3 I 4.56 q469
+fox
+fox-1 X
+14.00
+ftt
+ftt-1 IV 5.31
+ftt-2 X N
+gbr
+gbr-1 III 13.91
+gcp
+ges
+ges-1 V
+18.93 ca1
+gld
+gld-1 I 2.24 q485
+gld-2 I N q497
+glh
+glh-1 I 1.34
+glh-2 I 1.14
+glp
+glp-1 III 0.14 q46
+glp-3 III
+0.81 q145
+glp-4 I 20.84 bn2
+glr
+glr-1 III
+0.18 n2461
+goa
+goa-1 I 2.04 sy192
+gon
+gon-1 IV 4.31 e1254
+gon-2 I 2.88 q362
+gon-3 IV N e2548
+gon-4 IV 4.53 e2575
+gon-5 I N e2550
+gon-6 II N e2586
+gon-7 V N e2589
+gon-9 I N e2611
+gon-10 V 6.36 e1795
+gon-11 I 3.8 dx5
+gpa
+gpa-1 V 3.18 pk15
+gpa-2 V 1.54 pk16
+gpa-3 V 1.97 pk35
+gpb
+gpb-1 II 3.99 pk13
+gpd
+gpd-1 II 2.38
+gpd-2 X
+13.05
+gpd-3 X
+13.05
+gpd-4 II 1.95
+gqa
+gqa-1
+gro
+gro-1 III
+1.99 e2400
+gro-2 IV 9.46 e2442
+gro-3 I 18.67 e2556
+gsa
+gsa-1 I
+13.37 pk75
+gst
+gst-1 III 0.12
+gum
+gum-1 I 1.1 q373
+gum-2 IV N e1747
+gum-3 X N e1823
+gum-4 X N q412
+gum-5 V
+2.5 dx4
+gum-6 X L oz124
+gus
+gus-1 I 25.85 b405
+gut
+gut-2 V 5.24 lw6
+gut-4 IV 3.0 lw4
+ham
+ham-1 IV 6.05 n1438
+ham-2 X N n1332
+ham-3 III N n1654
+hcd
+hcd-1 II N sy417
+hcd-2 III N sy418
+hch
+hch-1 X N e1734
+her
+her-1 V 2.11 e1518
+her-2
+him
+him-1 I
+0.24 e879
+him-2 I 6.98 e1065
+him-3 IV 1.97 e1147
+him-4 X 1.57 e1267
+him-5 V 5.83 e1467
+him-6 IV 6.25 e1423
+him-7 V
+5.02 e1480
+him-8 IV 4.69 e1489
+him-9 II 4.84 e1487
+him-10 III
+1.69 e1511
+him-11 III N n318
+him-12
+him-13 I N e1742
+him-14 II 0.54 it44
+him-15 III 0.32
+his
+his-1 V 9.19
+his-2 V 9.19
+his-3 V 9.19
+his-4 V 9.19
+his-5 V 1.60
+his-6 V 1.60
+his-7 V 1.60
+his-8 V 1.60
+his-9 II 16.04
+his-10 II 16.04
+his-11 II 16.04
+his-12 II 16.04
+his-13 II 16.04
+his-14 II 16.04
+his-15 II 16.04
+his-16 II 16.04
+his-17 V 1.71
+his-18 V 1.71
+his-19 V 1.71
+his-20 V 1.71
+his-21 V 1.71
+his-22 V 1.71
+his-23 V 1.60
+his-24 X 17.00
+hlh
+hlh-1 II
+4.52 cc450
+hlh-2 I 1.83
+hmp
+hmp-1 V 3.44
+hsp
+hsp-1 IV 18.36
+hsp-2 X
+12.84
+hsp-3 X
+3.40
+hsp-4 ?
+hsp-5 ?
+hsp-6 ?
+hsp-16A V 1.85
+hsp-16B ?
+hum
+hum-1 I 3.15
+hum-2 V 1.98
+hum-3 ?
+hum-4 X 3.33
+hum-5 III
+4.38
+inf
+inf-1 III
+0.82
+isx
+itr
+itr-1 IV 3.5
+kin
+kin-1 I 28.97
+kin-2 X
+3.72
+kin-3 ?
+kin-4 IV 5.07
+kin-5 IV 4.58
+kin-6 II 3.78
+kin-7
+kin-8 II 1.16
+kin-9 X
+0.58
+kin-10 I 2.55
+kin-11 X 0.76
+kin-13 V N
+kin-14 I 1.75
+kin-15 II 1.34
+kin-16 II 1.34
+kin-17 X
+1.86
+kin-18 III
+1.13
+kra
+kra-1 V 0.51 kh30
+ksr
+ksr-1 X
+0.61 n2526
+kup
+kup-1 V N
+kup-2 I 2.55
+lag
+lag-1 IV 2.90 q385
+lag-2 V
+10.37 q387
+lag-3 V N
+lam
+lam-1 IV 1.40 rh219
+lan
+lan-2
+lan-5
+lep
+lep-1 I 3.77 bx37
+lep-2 ? bx73
+let
+let-1 X 19.78 mn119
+let-2 X 23.78 mn153
+let-3 X 22.44 mn104
+let-4 X 17.42 mn105
+let-5 X 17.54 mn106
+let-6 X 24.13 mn130
+let-7 X 18.63 mn112
+let-8
+let-9 X 17.64 mn107
+let-10 X 22.44 mn113
+let-11 X 22.41 mn116
+let-12 X 20.65 mn121
+let-13 I 19.00 e1188
+let-14 X 22.46 mn120
+let-15 X 21.82 mn127
+let-16 X 23.49 mn117
+let-17
+let-18 X 21.82 mn122
+let-19 II 0.81 mn19
+let-20
+let-21 II 3.68 e1778
+let-22 II
+0.24 mn22
+let-23 II 1.03 mn23
+let-24 II 0.69 mn24
+let-25 II 2.69 mn25
+let-26 II 4.14 mn26
+let-27 II N mn27
+let-28 II N mn28
+let-29 II 2.99 mn29
+let-30 II
+1.10 mn30
+let-31 II 1.45 mn31
+let-32 II N mn32
+let-33 X 22.97 mn128
+let-34 X 20.50 mn134
+let-35 X 22.43 mn135
+let-36 X 21.23 mn140
+let-37 X 22.97 mn138
+let-38 X 21.82 mn141
+let-39 X 21.23 mn144
+let-40 X 21.82 mn150
+let-41 X 22.97 mn146
+let-42 III 1.48 g38
+let-43 X
+8.46 mg49
+let-44 X
+7.93 mg41
+let-45 I 13.60 h1292
+let-46 I 13.60 h1297
+let-47 I 13.59 h1319
+let-48 I 13.60 h1320
+let-49 I 27.17 st44
+let-50 I 27.46 st33
+let-51 IV 4.63 s41
+let-52 IV 5.52 s42
+let-53 IV 4.55 s43
+let-54 IV 4.06 s44
+let-55 IV 4.61 s45
+let-56 IV 5.42 s173
+let-57 IV R s47
+let-58 IV N s48
+let-59 IV 4.89 s49
+let-60 IV 5.17 s59
+let-61 IV 4.63 s65
+let-62
+let-63 IV 4.69 s170
+let-64 IV 4.85 s216
+let-65 IV 5.12 s254
+let-66 IV 5.71 s176
+let-67 IV 5.71 s214
+let-68 IV 5.77 s1258
+let-69 IV 4.63 s684
+let-70 IV 4.85 s689
+let-71 IV 4.69 s692
+let-72 IV 4.69 s52
+let-73 IV 4.85 s685
+let-74
+let-75 I 1.85 s101
+let-76
+let-77
+let-78 I 1 s82
+let-79 I 3 s81
+let-80 I 2.60 s96
+let-81 I 2.24 s88
+let-82 I 2.23 s85
+let-83 I 2 s97
+let-84 I 2.68 s91
+let-85 I 2.24 s142
+let-86 I 1.56 s141
+let-87 I 2.16 s106
+let-88 I 2.24 s132
+let-89 I 2.60 s133
+let-90 I 2.24 s140
+let-91 IV 5.00 s678
+let-92 IV 5.32 s504
+let-93 IV 5.71 s734
+let-94
+let-95
+let-96 IV 4.63 s1112
+let-97 IV 6.11 s1121
+let-98 IV 4.85 s1117
+let-99 IV 5.81 s1201
+let-100 IV 4.85 s1160
+let-201 I 23.57 e1716
+let-202 I 22.93 e1720
+let-203 I 23.57 e1717
+let-204 I 23.60 e1719
+let-205 I 25.38 e1722
+let-206 I 25.45 e1721
+let-207 I 25.64 e1723
+let-208 I 29.03 e1718
+let-209
+let-236 II 0.23 mn88
+let-237 II 0.78 mn208
+let-238 II 0.80 mn229
+let-239 II 0.83 mn217
+let-240 II 1.24 mn209
+let-241 II 1.59 mn228
+let-242 II 1.81 mn90
+let-243 II 2.11 mn226
+let-244 II 2.11 mn97
+let-245 II 2.39 mn185
+let-246 II 2.98 mn99
+let-247 II 3.19 mn211
+let-248 II 3.07 mn237
+let-249 II 3.69 mn238
+let-250 II 3.69 mn207
+let-251 II 5.92 mn95
+let-252 II 0.79 mn100
+let-253 II 0.25 mn181
+let-254 II N mn214
+let-255 II N mn186
+let-256 II N mn231
+let-257 II 24.00 mn235
+let-258 II N mn206
+let-259 II 22.94 mn210
+let-260 II N mn232
+let-261 II N mn233
+let-262 II N mn87
+let-263 II 0.20 mn240
+let-264 II
+0.13 mn227
+let-265 II
+0.24 mn188
+let-266 II 5.92 mn194
+let-267 II N mn213
+let-268 II 1.83 mn189
+let-269 II N mn201
+let-270 II N mn191
+let-271 II N mn193
+let-272 IV
+3.44 m243
+let-273 IV
+2.87 m263
+let-274 IV
+1.61 m256
+let-275 IV
+0.56 m245
+let-276 IV 0.62 m240
+let-277 IV 1.43 m262
+let-278 IV
+0.06 m265
+let-279 IV 0.67 m261
+let-280 IV 1.40 m259
+let-281 IV 1.31 m247
+let-282 IV 1.31 m258
+let-283
+let-284 IV 1.31 m267
+let-285 IV N m248
+let-286 IV N m269
+let-287 IV N m244
+let-288 IV 0.63 m306
+let-289 IV 3.17 s1133
+let-290 IV 3.10 s1140
+let-291 IV 3.27 s1139
+let-292 IV 3.37 s1146
+let-293 IV 3.01 s1166
+let-294 IV 3.39 s1103
+let-295 IV 3.13 s1175
+let-296 IV 3.37 s1250
+let-297 IV 3.39 s1989
+let-298 IV N m656
+let-301 IV 7.75 s1134
+let-302 IV 6.86 s1159
+let-303 IV 2.5 s761
+let-304 IV
+0.5 s747
+let-305 IV
+4.5 s762
+let-306 IV
+7.5 s759
+let-307 IV 4.63 s1171
+let-308 IV 4.63 s1705
+let-309 IV 5.79 s1115
+let-311 IV 4.89 s1195
+let-312 IV 4.69 s1234
+let-313 IV 9.39 s1135
+let-314 IV 7.78 s1206
+let-315 IV 7.96 s1101
+let-316 IV 7.81 s1227
+let-317 IV 7.79 s1153
+let-318 IV 9.39 s1218
+let-319 IV 9.39 s1754
+let-320 IV 8.80 s1248
+let-321 IV 9.39 s1228
+let-322 IV 9.07 s1238
+let-323 IV 9.67 s1719
+let-324 IV 9.53 s1727
+let-325 IV 7.79 s1738
+let-326 V
+19.36 s1404
+let-327 V
+16.00 s247
+let-328
+let-329 V
+0.51 s575
+let-330 V
+11.37 s573
+let-331 V
+2.80 s427
+let-332 V 0.56 s234
+let-333
+let-334 V 1.70 s908
+let-335 V 0.89 s1439
+let-336 V
+22.20 s1413
+let-337 V 0.46 s825
+let-338 V
+5.83 s1020
+let-339 V 0.56 s1444
+let-340 V 1.70 s1508
+let-341 V
+5.39 s1031
+let-342 V
+4.88 s1029
+let-343 V 0.56 s1025
+let-344 V
+5.78 s376
+let-345 V
+4.55 s578
+let-346 V 0.56 s1619
+let-347 V
+11.40 s1035
+let-348 V
+5.67 s1436
+let-349 V N s217
+let-350 V
+2.70 s250
+let-351 I
+1.28 h43
+let-352 I
+0.15 h45
+let-353 I
+1.46 h46
+let-354 I
+1.30 h79
+let-355 I 0.00 h81
+let-356 I
+2.21 h83
+let-357 I
+3.11 h89
+let-358
+let-359 I
+0.37 h94
+let-360 I
+5.12 h96
+let-361 I
+0.24 h97
+let-362 I
+13.45 h86
+let-363 I
+0.24 h98
+let-364 I
+0.24 h104
+let-365 I
+5.35 h108
+let-366 I
+1.77 h112
+let-367 I 0.02 h119
+let-368 I
+2.28 h121
+let-369 I
+2.22 h125
+let-370 I
+0.01 h128
+let-371 I
+0.20 h123
+let-372 I
+2.23 h126
+let-373 I
+1.86 h234
+let-374 I
+1.45 h251
+let-375 I
+0.61 h259
+let-376 I 0.03 h130
+let-377 I 0.22 h110
+let-378 I 0.21 h124
+let-379 I 0.41 h127
+let-380 I 0.94 h80
+let-381 I 0.90 h107
+let-382 I 1.23 h82
+let-383 I 1.24 h115
+let-384 I 0.74 h84
+let-385 I 1.36 h85
+let-386 I 1.20 h117
+let-387 I 0.90 h87
+let-388 I 0.42 h88
+let-389 I 1.56 h680
+let-390 I 1.23 h44
+let-391 I 0.87 h91
+let-392 I 1.24 h120
+let-393 I 0.01 h225
+let-394 I 1.40 h262
+let-395 I 0.01 h271
+let-396 I 0.88 h217
+let-397 I 1.24 h228
+let-398 I 1.31 h257
+let-399 I 1.34 h273
+let-400 I 1.58 h269
+let-401 V
+0.75 s193
+let-402 V
+0.33 s1526
+let-403 V
+0.09 s1482
+let-404 V 0.50 s119
+let-405 V 0.89 s116
+let-406 V 0.62 s514
+let-407 V 1.88 s830
+let-408 V 0.89 s827
+let-409 V 1.61 s823
+let-410 V 0.48 s815
+let-411 V 0.76 s1595
+let-412 V 1.60 s1598
+let-413 V 1.43 s128
+let-414 V 0.89 s114
+let-415 V
+1.65 s1525
+let-416 V 1.61 s113
+let-417 V
+0.99 s204
+let-418 V N s1617
+let-419 V
+2.54 s1483
+let-420 V
+2.70 s1046
+let-421 V C s1477
+let-422 V C s194
+let-423 V 0.82 s818
+let-424 V 1.44 s384
+let-425 V 0.56 s385
+let-426 V
+17.76 s1527
+let-427 V 2.10 s1057
+let-428 V
+2.70 s1490
+let-429 V
+0.62 s584
+let-430 V
+5.67 s1042
+let-431 V
+20.44 s1049
+let-432
+let-433 V 1.61 s950
+let-434 V 1.59 s1904
+let-436 V 1.25 s1403
+let-437 V
+20.98 s1405
+let-438 V 0.56 s2114
+let-439 V
+0.04 s1407
+let-440 V
+2.70 s1411
+let-441 V 2.04 s1414
+let-442 V 0.56 s1416
+let-443 V
+0.87 s1417
+let-444 V
+0.41 s1418
+let-445 V 1.15 s1419
+let-447 V
+21.52 s1457
+let-448 V
+20.98 s1363
+let-449 V 1.43 s1343
+let-450 V
+22.60 s2160
+let-452 V
+2.70 s1434
+let-453 V
+20.98 s2167
+let-454 V 2.04 s1423
+let-455 V
+7.07 s1447
+let-456 V 1.43 s1479
+let-458 V
+20.98 s1443
+let-459 V
+6.46 s1432
+let-460 V 1.79 s1664
+let-461
+let-462 V
+0.04 s1594
+let-463 V
+0.47 s2168
+let-464 V 1.59 s1504
+let-466 V
+7.42 s1063
+let-467 V 1.74 s1521
+let-468 V 0.56 s1533
+let-469 V 0.48 s1582
+let-470 V 1.99 s1581
+let-471 V 0.48 s1570
+let-472 V 0.48 s1605
+let-473 V 0.23 s1602
+let-474 V 1.43 s1577
+let-475 V 1.99 s1606
+let-476 V 0.18 s1621
+let-478 V
+9.04 s1620
+let-479 V
+0.03 s1576
+let-480 V C s1607
+let-481 V L s1636
+let-500 III/V N s2165
+let-501 I
+1.91 h714
+let-502 I
+1.37 h392
+let-503 I
+1.46 h313
+let-504 I
+1.53 h844
+let-505 I
+1.53 h426
+let-506 I
+1.46 h300
+let-507 I
+1.46 h439
+let-508 I
+0.92 h452
+let-509 I
+1.91 h867
+let-510 I
+1.91 h740
+let-511 I
+1.91 h755
+let-512 I 0.69 h797
+let-513 I 0.57 h752
+let-514 I 0.65 h753
+let-515 I
+2.50 h730
+let-516 I
+1.91 h144
+let-517 I
+2.50 h264
+let-518 I
+2.50 h316
+let-519 I
+2.50 h405
+let-520 I 1.64 h690
+let-521 I 1.35 h704
+let-522 I 1.73 h735
+let-523 I 1.73 h751
+let-524 I 1.80 h442
+let-525 I 1.73 h874
+let-526 I
+0.12 h185
+let-527 I 1.80 h207
+let-528 I 1.40 h1012
+let-529 I 1.36 h238
+let-530 I 0.02 h798
+let-531 I 0.36 h733
+let-532 I 0.39 h715
+let-533 I N h845
+let-534 I 1.31 h260
+let-535 I 2.42 h993
+let-536 I 3.11 h882
+let-537
+let-538 I 2.42 h990
+let-539 I 1.82 h938
+let-540 I 2.03 h884
+let-541 I 3.11 h886
+let-542 I 1.94 h986
+let-543 I 1.37 h792
+let-544 I 1.27 h692
+let-545 I 1.45 h842
+let-546 I
+15.00 h227
+let-547 I
+15.00 h277
+let-548 I
+11.55 h356
+let-549 I
+7.68 h193
+let-550 I N h291
+let-551 V 17.28 e2517
+let-552 II
+5.25 e2542
+let-553 II R e2617
+let-571 I
+7.88 h347
+let-572 I
+15.00 h220
+let-573 I
+8.17 h247
+let-574 I N h317
+let-575 I N h345
+let-576 I N h816
+let-577 I N h503
+let-578 I N h512
+let-579 I N h705
+let-580 I N h709
+let-581 I N h725
+let-582 I N h726
+let-583 I N h738
+let-584 I N h743
+let-585 I N h784
+let-586 I N h846
+let-587 I N h849
+let-588 I
+1.45 h318
+let-589 I
+1.91 h319
+let-590 I
+1.45 h320
+let-595 I C h353
+let-598 I C h213
+let-599 I
+0.12 h290
+let-601 I 1.00 h281
+let-602 I 0.88 h283
+let-603 I 0.43 h289
+let-604 I 1.23 h293
+let-605 I 1.30 h312
+let-606 I 1.05 h292
+let-607 I 1.24 h402
+let-608 I 1.13 h706
+let-610 I 1.13 h695
+let-611 I 0.89 h850
+let-613 I C h198
+let-651 IV 4.66 s1165
+let-652 IV 4.66 s1086
+let-653 IV 5.41 s1733
+let-654
+let-655 IV 4.95 s1748
+let-656 IV 5.78 s1753
+let-657 IV 4.59 s1254
+let-658 IV 4.49 s1149
+let-659 IV 4.49 s1152
+let-660 IV 5.38 s1996
+let-661 IV 5.61 s2203
+let-662 IV 5.71 s2219
+let-664 IV 5.35 s2374
+let-702 III
+1.1 s2483
+let-705 III
+1.45 s2451
+let-706 III
+5.46 s2480
+let-707 III
+2.28 s2462
+let-708
+let-713 III C s2449
+let-714 III
+1 s2582
+let-715 III
+3.05 s2618
+let-716 III
+1.43 s2457
+let-720 III
+20.5 s2610
+let-721 III C s2447
+let-722 III
+1.0 s2448
+let-723 III C s2434
+let-725 III C s2454
+let-728 III C s2573
+let-733 III
+2.34 s2621
+let-734 III
+2.3 s2479
+let-737 III
+2.82 s2477
+let-744
+let-745
+let-747 III C s2456
+let-749 III
+2.36 s2467
+let-754 III C s2622
+let-755 III C s2600
+let-758 III
+5.46 s2607
+let-759 III
+4.52 s2595
+let-761 III
+1.68 s2461
+let-764 III
+1.5 s2616
+let-765 III
+1.04 s2575
+let-766 III C s2463
+let-767 III C s2464
+let-768 III C s2592
+let-771 III
+1.5 s2442
+let-772
+let-774 III C s2615
+let-778 III
+2.2 s2584
+let-782 III
+1.68 s2591
+let-783 III C s2601
+let-786 III
+1.43 s2631
+let-789 III
+2.2 s2606
+let-852 II 3 cc502
+let-853 II 3 cc505
+let-854 II 3 cc507
+let-855 II 3 cc509
+let-856 II 3 cc514
+let-857 II 3 cc516
+let-858 II 3 cc500
+let-974 III
+0.3 s230
+let-975 III
+0.3 s255
+let-976 III
+0.3 s267
+let-977 III
+0.3 s966
+let-978 III
+0.3 s1050
+let-979 III
+0.1 s231
+let-980 III
+0.1 s424
+let-981 III
+0.1 s453
+let-982 III 0 s386
+let-983 III 0 s442
+let-984 III 0 s428
+let-985 III 0 s980
+let-986 III 0 s1065
+let-987 III 0 s1078
+lev
+lev-1 IV 8.05 e211
+lev-7
+lev-8 X 5.09 x15
+lev-9 X
+2.52 x16
+lev-10 I 23.83 x17
+lev-11 I 25.44 x12
+lfe
+lfe-1 IV N sy290
+lfe-2 I N sy326
+lgx
+lgx-1 X
+4.80
+lgx-2 IV 3.15
+lgx-3
+lin
+lin-1 IV
+8.36 e1777
+lin-2 X 7.49 e1309
+lin-3 IV 4.81 e1417
+lin-4 II
+0.88 e912
+lin-5 II 0.56 e1348
+lin-6 I
+9.44 e1466
+lin-7 II 22.94 e1413
+lin-8 II
+8.39 n111
+lin-9 III
+0.00 n112
+lin-10 I 2.49 e1439
+lin-11 I 4.88 n389
+lin-12 III 0.12 n941
+lin-13 III
+0.60 n387
+lin-14 X 3.33 n526n540
+lin-15 X 22.32 n309
+lin-16 III
+0.81 e1743
+lin-17 I
+7.63 n671
+lin-18 X
+8.15 e620
+lin-19 III 2.51 e1756
+lin-20
+lin-21 III
+0.46 e1751
+lin-22 IV
+6.87 n372
+lin-23 II
+0.38 e1883
+lin-24 IV 5.71 n432
+lin-25 V 4.51 e1446
+lin-26 II 0.48 n156
+lin-27 I N b151
+lin-28 I 2.71 n719
+lin-29 II 4.28 n333
+lin-30 III N e1908
+lin-31 II
+5.25 n301
+lin-32 X
+14.12 e1926
+lin-33 IV 2.54 n1043
+lin-34
+lin-35 I 0.74 n745
+lin-36 III
+0.42 n766
+lin-37 III
+0.77 n758
+lin-38 II 12.81 n751
+lin-39 III
+0.65 n709
+lin-40 V
+8.35 e2173
+lin-41 I 4.89 ma104
+lin-42 II
+12.78 n1089
+lin-43 I
+1 ma103
+lin-44 I
+1.60 n1792
+lin-45 IV 3.27 sy96
+lin-46 V 6
+lin-47 X 1.83 sy32
+lin-48 III
+7.54 sy234
+lin-49 IV 3.97 sy238
+lin-50
+lir
+lir-1 II 0.48 pk96
+lir-2 II 0.48
+lmr
+lmr-1 III
+2.69
+lon
+lon-1 III
+1.68 e185
+lon-2 X
+6.17 e678
+lon-3 V 4.16 e2175
+lrp
+lrp-1 I 2.18
+lrx
+lrx-1 V 3.73
+mab
+mab-1
+mab-2 I 0.35 e1241
+mab-3 II 1.67 e1240
+mab-4 III 8.20 e1252
+mab-5 III
+0.55 e1239
+mab-6 II
+0.95 e1249
+mab-7 X
+19.15 e1599
+mab-8 II
+1.21 e1250
+mab-9 II
+14.49 e1245
+mab-10 II 3.04 e1248
+mab-11
+mab-12 IV
+15.43 e2166
+mab-13
+mab-14
+mab-15
+mab-16
+mab-17 I N e2167
+mab-18 X 1.95 bx23
+mab-19 X
+2.83 bx38
+mab-20 I
+10.41 bx24
+mab-21 III
+3.61 bx53
+mab-22 III N bx59
+mab-23 V 2.47 e2518
+mab-24 I N e2169
+mab-25 I N bx27
+mab-26 IV
+29.20 bx80
+mab-27 X 17.01 sy202
+mad
+mad-1 I 25 qm39
+mad-2 I 6 qm62
+mad-3 V 5.8 qm64
+mah
+mah-2 X
+1.32 cn110
+mai
+mai-1 X
+13.05
+mal
+mal-1 IV 9.5 qm27
+mal-2 V 24 qm31
+mal-3 I 0.8 qm34
+mal-4 II 0.7 qm36
+mau
+mau-1 V
+19.5 e2507
+mau-2 I 2.42 qm4
+mau-3 IV 3.5 qm10
+mau-4 X 24 qm45
+mau-5 III
+15 qm17
+mau-6 V 3 qm50
+mau-7 IV
+28 qm56
+mau-8 IV 3.45 qm57
+mec
+mec-1 V 0.62 e1066
+mec-2 X
+4.61 u8
+mec-3 IV 4.63 e1338
+mec-4 X 24.08 u52
+mec-5 X 22.41 e1340
+mec-6 I 1.46 e1342
+mec-7 X
+1.31 e1343
+mec-8 I 3.70 e398
+mec-9 V 2.11 u27
+mec-10 X
+0.57 e1515
+mec-11
+mec-12 III
+10.34 e1605
+mec-13
+mec-14 III
+0.76 u55
+mec-15 II 1.83 u215
+mec-16
+mec-17 IV 3.55 u265
+mec-18 X N u228
+mef
+mef-2 I 3.4
+mei
+mei-1 I 2.61 b284
+mei-2 I 1.24 ct102
+mek
+mek-1 ?
+mek-2 I
+5.55 n2678
+mel
+mel-1 II
+0.33 it19
+mel-2 II LC it20
+mel-3 II
+0.33 b281
+mel-4 II LC it43
+mel-5 II LC b314
+mel-6
+mel-7 II LC it36
+mel-8 II 1.12 it39
+mel-9 II 1.12 b293
+mel-10 II 0.57
+it10
+mel-11 II 1.12 it26
+mel-12 II 0.57
+it42
+mel-13 II 3.36 b306
+mel-14 II RC it24
+mel-15 II 5.62 it38
+mel-16 II RC b298
+mel-17 II RC b299
+mel-18 II 3.37 b300
+mel-19 II 3.37
+b310
+mel-20 II RC b317
+mel-21
+mel-22 II 5.62 it30
+mel-23 III 3.83 ct45
+mel-24 IV 4.05 ct59
+mel-25 V 2.87 ct60
+mel-26 I 3.56 ct61
+mel-27 III
+1.07 e2561
+mel-28 III
+2.38 e2567
+mel-29 V 2.22 e2596
+mel-30 II 1.98 e2595
+mel-31 III
+2.2 s2438
+mes
+mes-1 X 6.31 bn7
+mes-2 II 23.01 bn11
+mes-3 I
+0.38 bn35
+mes-4 V 5.29 bn50
+mes-5 III
+1.69 bn37
+mes-6 IV 3.92 bn66
+mev
+mev-1 III 2.33 kn1
+mev-2 X
+18.74 kn2
+mev-3 I 0.51 kn3
+mex
+mex-1 II 5.38 zu121
+mex-2 II N
+mex-3 I
+17.42 zu142
+mig
+mig-1 I
+16.68 e1787
+mig-2 X N rh17
+mig-3
+mig-4 III 5.2 rh51
+mig-5 II 0.79 rh147:
+mig-6 V 1.02 e1931
+mig-7
+mig-8 X
+2.07 rh50
+mig-10 III
+0.31 ct41
+mig-11 III
+1.42 ct78
+mig-12 II N n1706
+mig-13 X
+5.78 mu31
+mig-14 II 20.84 mu71
+mig-15 X 1.63 rh148
+mlc
+mlc-1 X 24.11
+mlc-2 X 24.11
+mlc-3 III
+0.61
+mog
+mog-1 III 0.99 q223
+mog-2 II
+4.66 q75
+mog-3 III
+3.02 q74
+mog-4 II 24.00 q233
+mog-5 II
+0.87 q449
+mog-6 II 2.86 q465
+mom
+mom-1 X
+3.2 zu188
+mor
+mor-1 III 1.29 e1071
+mor-2 IV 2.04 e1125
+mpk
+mpk-1 III
+3.80 ku1
+mpk-2 II
+2.84
+mrp
+mrp-1 X N
+mrp-2 X N
+mrp-3 ?
+mrp-4 ?
+msp
+msp-3 II
+3.57
+msp-10 IV 4.58
+msp-19 IV 1.61
+msp-24 IV 4.58
+msp-29 II
+3.0
+msp-31 II
+3.0
+msp-32 II
+3.0
+msp-33 II
+3.0
+msp-36 IV 4.58
+msp-37 IV 4.58
+msp-38 IV 4.58
+msp-40 II
+3.7
+msp-41 II
+3.7
+msp-45 II
+2.69
+msp-46 II
+3.0
+msp-47 II
+3.0
+msp-48 II
+3.0
+msp-49 II
+3.0
+msp-50 II
+3.0
+msp-51 IV 1.61
+msp-52 IV 1.61
+msp-53 IV 1.61
+msp-54 IV 1.61
+msp-56 IV 4.58
+msp-60 II
+1.0
+msp-61 II
+1.0
+msp-62 II
+1.0
+msp-63 II
+1.0
+msp-64 II
+1.0
+msp-70 IV 4.6
+msp-71 II
+3.07
+msp-72 V 2.39
+msp-74 II
+3.0
+msp-76 IV 4.58
+msp-77 IV 4.58
+msp-78 IV 4.58
+msp-81 IV 4.58
+msp-113 IV 1.61
+msp-142 II
+1.03
+msp-152 II
+3.21
+mtl
+mtl-1 V 0.24
+mtl-2 V 5.79
+mua
+mua-1 II
+0.04 rh160
+mua-2 III 10.21 rh119
+mua-3 III 1.78 rh169
+mua-4 III
+1.79 rh177 :
+mua-5 IV C rh179
+mua-6 X 23.52 rh85
+mua-7 III R
+mud
+mud-1 III
+3.2 qm21
+mum
+mum-1 IV 4.6 qm32
+mum-2 IV 4.4 qm33
+mum-3 III 3 qm46
+mup
+mup-1 II
+7.76 e2430
+mup-2 X
+2.89 e2346
+mup-4 III
+0.73 mg36
+mut
+mut-1 ? e1396
+mut-2 I 2 r459
+mut-3 ? r456
+mut-4 I 1.5 st700
+mut-5 II 1 st701
+mut-6 IV 3 st702
+myb
+myb-2 X 21.83
+myo
+myo-1 I 1.86
+myo-2 X 7.74
+myo-3 V 3.79 st386
+myo-4
+ncc
+ncc-1 III 0.69
+ncl
+ncl-1 III
+0.60 e1865
+ncl-2 IV 4.14 e1896
+nex
+nex-1 III
+2.1
+nex-2 III 2.4
+nex-3 III
+3.7
+nhr
+nhr-1 X 24.12 pk43
+nhr-2 I 0.30
+nhr-3 IV 4.58
+nhr-4 X 17.00
+nhr-5 IV 13.02
+nhr-6 III
+6.31
+nhr-7 IV 4.98
+nhr-8 IV 3.41
+nhr-9 III
+0.78
+nhr-10 III
+0.77
+nhr-11 IV 4.05
+nhr-13 V
+14.96
+nhr-17 X 7.49
+nhr-18 V
+14.54
+nhr-19 II 1.59
+nhr-20 III
+3.81
+nhr-21 II 0.35
+nhr-22 II
+0.25
+nmy
+nmy-1 X
+13.33
+nob
+nob-1 III 13.89 ct223
+nob-2
+nob-3 I 3.70 ct315
+nob-5
+nop
+nop-1 III
+1.5 it142
+not
+not-1
+not-3
+nuc
+nuc-1 X 7.05 e1392
+odc
+odc-1 V 0.61 pc13
+odr
+odr-1 X 12.52 n1930
+odr-2 V 0.63 n1939
+odr-3 V 4.40 n2150
+odr-4 III
+0.90 n2144
+odr-5 X 1.64 ky9 :
+odr-7 X 7.90 ky4
+odr-8 IV
+odr-9 ? ky27
+odr-10 X
+2.19 ky32
+ogr
+ogr-1 V 5.79
+ooc
+ooc-1 II 3.04 mn250
+ooc-2 II 0.59 mn249
+ooc-3 II 3.45 mn241
+ooc-4 III 2.26 e2078
+ops
+ops-1 I 1.37
+ops-2 V 1.06
+ops-3 III 0.63
+ops-4 III
+6.40
+ops-5 X 2.45
+ora
+ora-1 IV 3.54 eDf28 :
+ora-2 X 18.0
+osm
+osm-1 X 23.99 p808
+osm-2
+osm-3 IV
+2.26 p802
+osm-4
+osm-5 X
+12.20 p813
+osm-6 V 3.44 p811
+osm-7 III 21.48 n1515
+osm-8 II 0.68 n1518
+osm-9 IV
+3.26 n1601
+osm-10 III
+0.65 n1602
+osm-11 X 23.49 n1604
+osm-12 III 13.33 n1601
+ost
+ost-1 IV
+29.28
+pag
+pag-1 III
+1.88 ls2
+pag-3 X 19.49 ls20
+pal
+pal-1 III
+2.63 e2091
+pal-2 IV 4.05 e2260
+par
+par-1 V 5.92 b274
+par-2 III
+24.71 it46
+par-3 III
+1.44 e2074
+par-4 V 13.74 it47
+par-5 IV 5.31 it55
+par-6 I 13.9 zu170
+pat
+pat-2 III
+0.02 st543
+pat-3 III
+4.52 st423
+pat-4 III
+27.19 st552
+pat-5
+pat-6 IV
+28.00 st561
+pat-8 IV 2.98 st554
+pat-9 X 23.00 st558
+pat-10 I
+0.47 st568
+pat-11 I 0.44 st541
+pat-12 III
+26.59 st430 :
+pbo
+pbo-1 III
+3.58 sa7
+pbo-2
+pbo-3 II N sa304
+pbo-4 X 2.2 sa300
+pbo-5 V 2.3 sa242
+pbo-6 IV 3.5 sa243
+pbo-7 V 3.1 sa297
+pcm
+pcm-1 V
+1.3 qa201
+pdi
+pdi-1 III
+5.70
+pel
+pel-1 ?
+pel-2 IV N
+pel-3 I N
+pel-4 III N
+pes
+pes-1 IV 1.2 pk72
+pes-2 I 9.0
+pes-3 III 0.13
+pes-4 ?
+pes-5 II 4.25
+pes-6 IV 3.15
+pes-7 I 27.1
+pes-8 X 0.70
+pes-9 V 5.9 pk22
+pes-10 ? pk74
+pes-22 X
+6.3
+pes-23 X
+2.18
+pex
+pex-1 I 14.5 dx8
+pgl
+pgl-1 IV 3.3 ct131
+pgp
+pgp-1 IV 6.10 pk17
+pgp-2 I 0.42
+pgp-3 X 3.18 pk18
+pgp-4 X 3.17 pk34, pk82
+pha
+pha-1 III 5.93 e2123
+pha-2 X
+19.41 ad572
+pha-3 IV 5.68 ad607
+pha-4 V 25.18 q490
+phm
+phm-1
+phm-2 I 9.41 ad538
+phm-3 III
+12.28 ad493
+pho
+pho-1 II
+1.20 ca101
+pie
+pie-1 III 17.25 zu154
+plg
+plg-1 III 0.63 e2001
+pop
+pop-1 I
+5.40 zu189
+ppp
+ppp-1 II 0.19
+prk
+prk-1 III
+0.80 pk25
+prk-2 III
+8.5 pk26
+pry
+pry-1 I 22.17 mu38
+ptl
+ptl-1 III
+26.3
+pun
+pun-1 I N ct359 :
+pvp
+pvp-1 X 3.55 rh114
+rab
+rab-3 II
+1.21 y250
+rac
+rac-1 IV
+3
+rad
+rad-1 I 6.21 mn155
+rad-2 V 1.10 mn156 :
+rad-3 I 1.47 mn157
+rad-4 V
+9.46 mn158
+rad-5 III
+2 mn159
+rad-6 III 3.46 mn160
+rad-7 IV 6.05 mn161
+rad-8 I 0.47 mn163
+rad-9 III
+2 mn162
+raf
+raf-1
+ram
+ram-1 I 9.92 bx34
+ram-2 II 1.74 bx39
+ram-3 II 19.74 bx32
+ram-4 IV
+0.21 bx25
+ram-5 X 17.71 bx30
+rbp
+rbp-1 ?
+rec
+rec-1 I 25 s180
+rho
+rho-1 ?
+ric
+ric-1 III
+0.68 e239
+ric-2
+ric-3 IV 3.5 md158 :
+ric-4 V 2.11 md1088
+ric-5
+rnp
+rnp-1 V 3.70 pk73
+rok
+rok-1 IV 6.3 sy187
+rol
+rol-1 II 7.55 e91
+rol-2
+rol-3 V 1.45 e754
+rol-4 V 4.38 sc8
+rol-5
+rol-6 II 0.81 e187
+rol-7
+rol-8 II 0.88 sc15
+rol-9 V 25.18 sc148
+rop
+rop-1 V 2.4
+rpc
+rpc-1 IV 3.31
+rpl
+rpl-29 ?
+rpl-37 III
+6.99
+rps
+rps-16 ? N
+rrn
+rrn-1 I 29.99
+rrp
+rrp-1 IV 3.99
+rrp-2 IV 4.93
+rrs
+rrs-1 V 10.81
+rsn
+rsn-1 I 12.34
+rsn-2 II 15.96
+rsn-3 II 17.59
+rsn-4 V 9.97
+rsn-5 I 9.66
+rsn-6 ?
+rsn-7 V
+21.23
+rsn-8 V 3.43
+rsn-9 V 3.48
+rsn-10 IV 3.37
+rsn-11 I 1.40
+rsn-12 ?
+rsn-13 IV 6.27
+rtm
+rtm-1 I 11.36
+rtm-2 II 7.41
+rtm-3 X
+0.63
+rtm-4 ?
+rtr
+rtr-1 I 0.33
+rtw
+rtw-1
+rtw-2
+rtw-3 II 8.30
+rtw-4
+rtw-5 IV 5.14
+rtw-6 IV 3.38
+rtw-7 IV 1.63
+rtw-8
+rtw-9
+rtw-10
+rtw-11
+rtw-12
+rtx
+rtx-1 IV
+28.78
+ryr-1
+sch
+sch-1 V 4.59
+sdc
+sdc-1 X 23.48 n485
+sdc-2 X 4.67 y15
+sdc-3 V 6.91 y126
+sel
+sel-1 V 4.46 e1948
+sel-2 III
+2.92 n655
+sel-3
+sel-4 II
+16.37 n1259
+sel-5 III
+2.97 n1524
+sel-6 V 20.39 n1256
+sel-7 X 17.31 n1253
+sel-9 V 1.60 ar22
+sel-10 V 5.46 ar41
+sel-11 V 3.19 ar39
+sel-12 X
+18.86 ar131
+sem
+sem-1 X 14.34 n1382
+sem-2 I
+0.27 n1343
+sem-3 IV 4.92 n1655
+sem-4 I 1.66 n1378
+sem-5 X
+0.66 n2030
+shv
+shv-1 II 1.63 oz128
+sip
+sip-1 III 2.53
+skn
+skn-1 IV 2.16 zu67
+skn-4 III 2 or16
+sli
+sli-1 X
+19.09 sy143
+sls
+sls-1 I
+1.64
+sls-2 III C
+sls-3 I 3.39
+sls-4 I 3.39
+sma
+sma-1 V 3.44 e30
+sma-2 III
+0.06 e502 :
+sma-3 III
+0.91 e491
+sma-4 III
+1.26 e729
+sma-5 X 6.74 n678
+sma-6 II 0.08 e1482
+sma-7
+sma-8 V 3.19 e2111
+smg
+smg-1 I 1.50 e1228
+smg-2 I
+17.91 e2008
+smg-3 IV 3.16 ma117
+smg-4 V 2.25 ma116
+smg-5 I 1.29 r860
+smg-6 III
+16.27 r896
+smg-7 IV 3.27 r1131
+smu
+smu-1 I 18.06 mn415
+smu-2 II
+7.12 mn416
+snb
+snb-1 V 0.17 md247
+snt
+snt-1 II 0.10 md125
+soc
+soc-1 V L n1789
+soc-2 IV C n1774
+sod
+sod-1 II 0.20 pk67
+sod-2 I 2.72
+sod-3 ?
+sog
+sog-1 I 1.91 q305
+sog-2 II 2.42 q299
+sog-3 IV 3.04 q294
+sog-4 V 1.47 q301
+sog-5 X
+5.33 q297
+sog-6 IV 4.23 q300
+sog-10 III
+2.59 q162
+spa
+spa-1
+spe
+spe-1 II 0.40 mn47
+spe-2 II 1.59 mn63
+spe-3 II
+0.89 mn230
+spe-4 I 2.04 hc78
+spe-5 I
+0.25 hc93
+spe-6 III 9.78 hc49
+spe-7 II N mn252
+spe-8 I
+17.38 hc40
+spe-9 I 9.54 hc52
+spe-10 V 2.67 hc104
+spe-11 I
+0.10 hc77
+spe-12 I 2.60 hc76
+spe-13 I
+20.00 hc137
+spe-15 I
+15.97 hc75
+spe-16 III 7.27 hc54
+spe-17 IV 5.5 hcDf1
+spe-26 IV 4.6 hc138
+spe-27 IV 2.57 it132
+spe-29 IV 4.40 it127
+spy
+spy-1 X
+2.15 mu63
+sqt
+sqt-1 II 3.19 scl
+sqt-2 II
+18.22 sc3
+sqt-3 V 3.96 sc63
+sqv
+sqv-1 IV 3.83 n2820
+sqv-2 II
+6.00 n2826
+sqv-3 III 0.70 n2823 :
+sqv-4 V 2.76 n2840
+sqv-5 I 7.15 n3039
+sqv-6 V 0.99 n2845
+sqv-7 II 0.20 n2844
+sra
+sra-1 II 1.4
+sra-2 II 1.4
+sra-3 II 1.4
+sra-4 II 1.4
+sra-5 II 1.4
+sra-6 II 1.4
+sra-7 II 1.4
+sra-8 II 1.4
+sra-9 II 1.4
+sra-10 II 3.05
+sra-11 II 3.05
+sra-12 II 3.05
+srb
+srb-1 II
+2.6
+srb-2 II
+2.6
+srb-3 II
+2.6
+srb-4 II
+2.6
+srb-5 II
+2.6
+srb-6 II 1.95
+srb-7 III
+0.8
+srb-8 III
+0.8
+srb-9 III
+0.8
+srb-10 III
+0.9
+srb-11 III
+0.9
+src
+src-1 ?
+srd
+srd-1 II 1.95
+srd-2 II 1.95
+sre
+sre-1 II 0.5
+sre-2 II 0.75
+srf
+srf-1 II 4.35 yj1
+srf-2 I 5.35 yj262
+srf-3 IV 6.36 yj10
+srf-4 V 23.95 ct109
+srf-5 X 12.62 ct115
+srf-6 II 0.08 yj13
+srf-8 V 3.07 dv38
+srf-9 V 1.46 dv4
+srg
+srg-1 III
+1.0
+srg-2 III
+1.0
+srg-3 III
+1.0
+srg-4 III
+1.0
+srg-5 III
+1.0
+srg-6 III
+1.0
+srg-7 III
+1.0
+srg-8 III
+1.1
+srg-9 III
+1.1
+srg-10 III
+3.4
+srg-11 III
+3.4
+srg-12 III
+0.1
+srg-13 III
+3.5
+srl
+srl-1 II N s2501
+srl-2 III LC s2504
+sro
+sro-1 II 0.4
+ssb
+ssb-1 III N pk61
+ssp
+ssp-1 IV 4.58
+ssp-2 IV 4.58
+ssp-3 IV 4.58
+ssp-4 IV 4.58
+ssp-7 IV 1.61
+ssp-9 IV 1.19
+ssp-10 IV 4.58
+ssp-12 IV 4.58
+ssp-13 IV 4.58
+ssp-14 IV 4.58
+ssp-17 IV 4.58
+ssp-18 IV 4.58
+stp
+stp-1 II
+0.87
+stu
+stu-1
+stu-2 II 2.01 e2297
+stu-3 V 25.09 q265
+stu-4 I
+4.44 e2406
+stu-6 X 5.43 e2408
+sud
+sud-1 II 0.92
+sum
+sum-1
+sup
+sup-1 III 11.65 e995
+sup-2 X 1.44 e997
+sup-3
+sup-4
+sup-5 III
+0.11 e1464
+sup-6 II 12.21 st19
+sup-7 X
+2.89 st5
+sup-8 V
+0.01 e1563
+sup-9 II
+11.92 n180
+sup-10 X 24.12 n183
+sup-11 I
+5.89 n403
+sup-12 X
+8.31 st89
+sup-13 III 0.00 st210
+sup-16 IV N st500
+sup-17 I 3.04 n316
+sup-18 III
+0.71 n463
+sup-19 V 19.24 m210
+sup-20 X 16.97 n821
+sup-21 X 0.63 e1957
+sup-22 IV
+2.53 e2057
+sup-23 IV 1.82 e2059
+sup-24 IV 13.01 st354
+sup-25
+sup-26 III
+3.37 n1091
+sup-27 V 6.86 n1092
+sup-28 X 0.64 e1958
+sup-29 IV
+2.82 e1986
+sup-30 IV R e1992
+sup-31 IV 6 e2042
+sup-32 X 0 e2058
+sup-33 X 0 st389
+sup-34 I
+17.71 e2227
+sup-35 III 5.81 e2220
+sup-36 IV N e2217
+sup-37 V N e2214
+sup-38 IV 10.91 ra5
+sup-39 II 0.22 je5
+sup-40 I 0.57 lb130
+sup-41 IV 1.86 lb125
+sup-42 X N lb88
+sur
+sur-1
+sur-2 I 26.28 ku9
+sur-3
+sur-4 III 5.33 ku23
+sus
+sus-1 III
+12.57 m156
+suv
+suv-1 X
+15.81 n1329
+suv-2 X 5.60 n1694
+suv-3 ?
+suv-4 ?
+suv-5 ?
+syr
+syr-1 II
+18 je11
+tab
+tab-1 II 0.16 u271
+tax
+tax-1
+tax-2 II N p671
+tax-3 A ? p673
+tax-4 III
+0.26 p678
+tax-5 V N p672
+tax-6 ? p675
+tba
+tba-1 I 3.92
+tba-2 I 16.20
+tba-3
+tba-4 ?
+tba
+tbb-1 III 4.40
+tbb-2 III
+4.39
+tbg
+tbg-1 III 0.61
+tbp
+tbp-1 ?
+tbx
+tbx-2 III
+2.4
+tbx-7 III
+1.1
+tbx-8 III 2.41
+tbx-9 III 2.41
+tcf
+tcf-1
+tcp
+tcp-1
+tkr
+tkr-1 III 0.48 pk69
+tmr
+tmr-1
+tmr-2
+tmr-3
+tmr-4
+tmy
+tmy-1 I 25.44
+tnc
+tnc-1 I
+0.30
+tni
+tni-1 X 0.0
+tni-2 X N
+toh
+toh-1 III
+5.12
+toh-2 III
+0.76
+tpa
+tpa-1 IV
+27.65 k501
+tra
+tra-1 III 6.69 e1099
+tra-2 II 0.16 e1095
+tra-3 IV 11.75 e1107
+ttx
+ttx-1 V N p767
+ttx-2 III
+1.60 ks4
+ttx-3 X 6.90 ks5
+ubc
+ubc-1 IV
+0.01
+ubc-2 IV 4.87
+ubq
+ubq-1 III
+1.14
+ubq-2 III 17.3
+unc
+unc-1 X
+18.74 e719
+unc-2 X
+13.67 e55
+unc-3 X 18.54 e151
+unc-4 II 1.72 e120
+unc-5 IV 1.96 e53
+unc-6 X
+2.17 e78
+unc-7 X 20.35 e5
+unc-8 IV 2.98 e49
+unc-9 X 11.57 e101
+unc-10 X
+1.25 e102
+unc-11 I
+2.38 e47
+unc-12
+unc-13 I 2.03 e51
+unc-14 I 1.80 e57
+unc-15 I 2.01 e73
+unc-16 III 0.54 e109
+unc-17 IV
+3.31 e245
+unc-18 X
+1.39 e81
+unc-19
+unc-20 X
+11.84 e112
+unc-21
+unc-22 IV 5.45 e66
+unc-23 V 1.88 e25
+unc-24 IV 3.53 e138
+unc-25 III 20.94 e156
+unc-26 IV 8.18 e205
+unc-27 X 0.32 e155
+unc-28
+unc-29 I 3.20 e193
+unc-30 IV 7.79 e191
+unc-31 IV 6.27 e169
+unc-32 III 0.00 e189
+unc-33 IV
+3.54 e204
+unc-34 V
+20.39 e315
+unc-35 I
+14.40 e259
+unc-36 IIII
+0.33 e251
+unc-37 I 1.30 e262
+unc-38 I
+0.55 e264
+unc-39 V 5.85 e257
+unc-40 I 0.29 e271
+unc-41 V 2.29 e268
+unc-42 V 2.21 e270
+unc-43 IV 4.55 e408
+unc-44 IV 2.75 e362
+unc-45 III
+27.13 e286
+unc-46 V
+2.27 e177
+unc-47 III 1.85 e307
+unc-48
+unc-49 III 3.33 e382
+unc-50 III 2.39 e306
+unc-51 V 24.42 e369
+unc-52 II 23.33 e444
+unc-53 II 3.07 e404
+unc-54 I 27.21 e190
+unc-55 I 2.36 e402
+unc-56
+unc-57 I
+0.99 e406
+unc-58 X 1.51 e665
+unc-59 I 22.49 e261
+unc-60 V
+18.92 e723
+unc-61 V 6.49 e228
+unc-62 V
+5.49 e644
+unc-63 I
+0.24 e214
+unc-64 III 21.46 e246
+unc-65 V 6.57 e351
+unc-66
+unc-67 I
+2.39 e713
+unc-68 V 0.62 e540
+unc-69 III 2.32 e587
+unc-70 V 0.50 e524
+unc-71 III 20.30 e541
+unc-72
+unc-73 I
+1.85 e936
+unc-74 I
+1.45 e883
+unc-75 I 9.55 e950
+unc-76 V 7.01 e911
+unc-77 IV 1.92 e625
+unc-78 X
+9.15 e1217
+unc-79 III
+4.03 e1068
+unc-80 V 18.70 e1272
+unc-81 III 17.56 e1122
+unc-82 IV 2.59 e1220
+unc-83 V
+0.09 e1408
+unc-84 X 13.48 e1410
+unc-85 II
+3.32 e1414
+unc-86 III
+0.32 eDf25
+unc-87 I 1.31 e1216
+unc-88
+unc-89 I
+1.60 e1460
+unc-90 X 0.27 e1463
+unc-91
+unc-92
+unc-93 III
+5.86 e1500
+unc-94 I 0.79 su177
+unc-95 I 23.80 su106
+unc-96 X
+18.21 su151
+unc-97 X
+4.55 su110
+unc-98 X
+1.67 su130
+unc-99
+unc-100 I 22.48 su149
+unc-101 I 13.51 m1
+unc-102
+unc-103 III
+3.77 e1597
+unc-104 II 0.22 e1265
+unc-105 II 0.67 n490
+unc-106
+unc-107
+unc-108 I
+1.92 n501
+unc-109 I 2.56 n499
+unc-110 X 0.41 e1913
+unc-111 V 0.3 r346
+unc-112 V 6.20 r367
+unc-113 V 0.3 r449
+unc-114 V N r476
+unc-115 X 1.69 e2225
+unc-116 III
+0.29 e2281
+unc-117 X
+11.8 e2330
+unc-118 X 1 e2331
+unc-119 III 5.33 e2498
+unc-120 I 2.74 st364
+unc-121
+unc-122 I 26.29 e2520
+unc-123 III 13.32 jd5
+unc-124 X
+2 hs10
+unc-125 X
+15 hs11
+unc-126 III
+0.4 hs12
+unc-127 V 0.1 hs13
+unc-128 X 8.24 rh110
+unc-129 IV 4.10 ev554
+uts
+uts-1 V 4.57
+uts-2 I 3.39
+uts-3 IV 6.03
+uts-4 IV 5.90
+uvt
+uvt-1 X
+1.4
+uvt-2 X
+5.9
+uvt-3 X
+5.9
+uvt-4 X
+5.9
+uvt-5 X
+12.5
+uvt-6 X
+12.5
+uvt-7 X
+12.7
+uxt
+uxt-1 X
+2.9
+uxt-2 X C
+vab
+vab-1 II
+3.46 e2
+vab-2 IV
+2.36 e96
+vab-3 X 1.97 e648
+vab-4
+vab-5 ? e108
+vab-6 III
+27.17 e697
+vab-7 III 5.34 e1562 :
+vab-8 V 3.63 e1017
+vab-9 II 0.79 e1744
+vab-10 I 7.46 e698
+vab-11 IV
+10.2 e1255
+vet
+vet-1 I 0.89
+vet-2 ?
+vet-3 ?
+vet-4 ?
+vet-5 ?
+vet-6 I 18.05
+vet-7 II
+11.98
+vet-8 II
+13.09
+vet-9 IV
+28.99
+vet-10 X 24.09
+vet-11 I 14.18
+vex
+vex-1 II C sy207
+vhp
+vhp-1 II
+2.32
+vit
+vit-1 X
+1.38
+vit-2 X 5.93
+vit-3 X
+12.53
+vit-4 X
+12.53
+vit-5 X
+12.73
+vit-6 IV 3.76
+vmp
+vmp-1
+vmp-2
+xol
+xol-1 X
+0.59 y9
+ypp
+ypp-1 II 3.06
+yrn
+yrn-1 IV 3.40
+zen
+zen-1
+zen-2 II N
+zen-3 V N
+zyg
+zyg-1 II
+1.96 b1
+zyg-2 I 1.87 b10
+zyg-3 II
+2.06 b18
+zyg-4
+zyg-5 II N b89
+zyg-6
+zyg-7 III 0.32 b187
+zyg-8 III 13.89 b235
+zyg-9 II 0.78 b244
+zyg-10 III C b261
+zyg-11 II 0.62 mn40
+zyg-12 II
+1.89
+zyg-13 IV
+28.03 b126
+zyg-14
